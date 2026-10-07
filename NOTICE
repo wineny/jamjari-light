@@ -1,0 +1,12 @@
+jamjari-light (잠자리 조명)
+Copyright 2026 wineny
+
+This repository is licensed under the Apache License 2.0 (see LICENSE).
+
+It is derived from the esp-matter example `examples/light`
+(https://github.com/espressif/esp-matter) by Espressif Systems:
+- files under main/ that say "Public Domain (or CC0 licensed, at your option)"
+  keep that notice;
+- files under device_hal/ that carry an Espressif Apache-2.0 header keep it.
+main/certification_declaration/certification_declaration.der is the test
+Certification Declaration shipped with the esp-matter example (public file).
